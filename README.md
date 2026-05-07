@@ -191,7 +191,7 @@ class RohitMakani:
 
 <a href="https://github.com/RohitMakaniProfile">
   <img width="49%" src="https://raw.githubusercontent.com/RohitMakaniProfile/RohitMakaniProfile/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitMakaniProfile&theme=tokyonight&hide_border=true&background=040408&stroke=6366f1&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=RohitMakaniProfile&theme=tokyonight&hide_border=true&background=040408&stroke=6366f1&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="Streak" />
 </a>
 
 <a href="https://github.com/RohitMakaniProfile">
