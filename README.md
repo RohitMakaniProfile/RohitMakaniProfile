@@ -51,53 +51,68 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ```python
 class RohitMakani:
-    def __init__(self):
-        self.role        = "AI Engineer"
-        self.company     = "Ikshan (Claw) — Founding AI Engineer"
-        self.education   = "IIT Guwahati · B.Sc Data Science & AI"
-        self.location    = "India 🇮🇳"
-        self.focus       = ["LLM Systems", "RAG Pipelines",
-                            "Cost-Optimized Architecture",
-                            "Agentic Workflows"]
+    """Founding AI Engineer building production LLM systems."""
 
-    def what_im_doing(self):
-        return {
-            "shipping":  "Production LLM features for 10K+ users",
-            "optimizing": "Inference cost down by 20%",
-            "learning":  ["Multi-agent orchestration",
-                          "Vector DB internals",
-                          "Distributed inference"],
-        }
+    role        = "AI Engineer"
+    company     = "Ikshan (Claw) — Founding AI Engineer"
+    education   = "IIT Guwahati · B.Sc Data Science & AI"
+    location    = "India 🇮🇳"
+    focus       = ["LLM Systems", "RAG Pipelines",
+                   "Cost-Optimized Architecture", "Agentic Workflows"]
 
-    def life_motto(self):
-        return "Ship fast. Measure everything. Cut cost without cutting quality."
+    def shipping(self):
+        return "Production LLM features → 10K+ users · 20% lower cost"
+
+    def learning(self):
+        return ["Multi-agent orchestration",
+                "Vector DB internals",
+                "Distributed inference"]
+
+    def motto(self):
+        return "Ship fast · Measure everything · Cut cost, not quality."
 ```
 
+<br>
+
+<!-- ══════════════════════ STAT BADGES ══════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF_Founding_AI_Engineer-Ikshan%20(Claw)-22d3ee?style=for-the-badge&labelColor=040408" alt="Founding AI Engineer" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%93_IIT_Guwahati-Data%20Science%20%26%20AI-a78bfa?style=for-the-badge&labelColor=040408" alt="IIT Guwahati" />
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_LLM_Systems-10K%2B%20users-6366f1?style=for-the-badge&labelColor=040408" alt="10K+ users" />
+<img src="https://img.shields.io/badge/%F0%9F%92%B0_Inference_Cost-%E2%96%BC%2020%25-34d399?style=for-the-badge&labelColor=040408" alt="20% cost reduction" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Open_to-Roles%20%26%20Collabs-f59e0b?style=for-the-badge&labelColor=040408" alt="Open to roles" />
+
+</div>
+
+<br>
+
+<!-- ══════════════════════ CURRENTLY 3-COL ══════════════════════ -->
+
+<table align="center">
+<tr>
+<td width="33%" align="center" valign="top">
+
+#### 🔭 &nbsp; Currently Building
+
+Production LLM features @ Claw — cost-aware **multi-agent orchestration**, RAG pipelines, and inference routing.
+
 </td>
-<td width="40%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🧠 &nbsp; Quick Stats
+#### 🌱 &nbsp; Currently Learning
 
-- 🎯 &nbsp; **Founding AI Engineer** @ Ikshan (Claw)
-- 🎓 &nbsp; **IIT Guwahati** — Data Science & AI
-- 🚀 &nbsp; Shipped LLM systems serving **10K+ users**
-- 💰 &nbsp; Driven **20% inference cost reduction**
-- 🧩 &nbsp; Building **agentic + RAG** pipelines
-- 📍 &nbsp; Open to **collaborations & roles**
-- 💌 &nbsp; Reach me: **rohitmakani564@gmail.com**
+Multi-agent design patterns, **vector DB internals**, and distributed inference at scale.
 
-### ⚡ &nbsp; Currently
+</td>
+<td width="33%" align="center" valign="top">
 
-- 🔭 &nbsp; Production LLM systems @ Claw
-- 🌱 &nbsp; Cost-aware multi-agent design
-- 💬 &nbsp; Ask me about LLMs, RAG, fine-tuning
-- ⚡ &nbsp; Fun fact: I write Python in my dreams
+#### 💬 &nbsp; Ask Me About
+
+LLM cost optimization, **RAG** architecture, fine-tuning, agentic workflows, evals.
 
 </td>
 </tr>
