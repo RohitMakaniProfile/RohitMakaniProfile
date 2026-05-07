@@ -181,14 +181,19 @@ class RohitMakani:
 
 <div align="center">
 
+<!--
+  NOTE: github-readme-stats.vercel.app is currently paused (503 DEPLOYMENT_PAUSED).
+  Switched to the rho-pied mirror — same API, identical theming.
+  If that mirror dies later, swap to: https://github-readme-stats-zeta-orcin.vercel.app
+-->
+
 <a href="https://github.com/RohitMakaniProfile">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RohitMakaniProfile&show_icons=true&theme=tokyonight&hide_border=true&bg_color=040408&title_color=22d3ee&icon_color=a78bfa&text_color=ffffff&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-rho-pied.vercel.app/api?username=RohitMakaniProfile&show_icons=true&theme=tokyonight&hide_border=true&bg_color=040408&title_color=22d3ee&icon_color=a78bfa&text_color=ffffff&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitMakaniProfile&theme=tokyonight&hide_border=true&background=040408&stroke=6366f1&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 </a>
 
 <a href="https://github.com/RohitMakaniProfile">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMakaniProfile&layout=compact&theme=tokyonight&hide_border=true&bg_color=040408&title_color=22d3ee&text_color=ffffff&langs_count=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RohitMakaniProfile&layout=compact&theme=tokyonight&hide_border=true&bg_color=040408&title_color=22d3ee&text_color=ffffff" />
+  <img width="60%" src="https://github-readme-stats-rho-pied.vercel.app/api/top-langs/?username=RohitMakaniProfile&layout=compact&theme=tokyonight&hide_border=true&bg_color=040408&title_color=22d3ee&text_color=ffffff&langs_count=10" />
 </a>
 
 </div>
@@ -245,12 +250,42 @@ class RohitMakani:
 
 <div align="center">
 
-<a href="https://github.com/RohitMakaniProfile/luna-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohitMakaniProfile&repo=luna-ai&theme=tokyonight&hide_border=true&bg_color=040408&title_color=22d3ee&icon_color=a78bfa&text_color=ffffff" />
-</a>
-<a href="https://github.com/RohitMakaniProfile">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohitMakaniProfile&repo=javatrial&theme=tokyonight&hide_border=true&bg_color=040408&title_color=22d3ee&icon_color=a78bfa&text_color=ffffff" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌙 &nbsp; [luna-ai](https://github.com/RohitMakaniProfile/luna-ai)
+
+<p>
+  <img src="https://img.shields.io/github/stars/RohitMakaniProfile/luna-ai?style=flat-square&color=22d3ee&labelColor=040408" />
+  <img src="https://img.shields.io/github/forks/RohitMakaniProfile/luna-ai?style=flat-square&color=a78bfa&labelColor=040408" />
+  <img src="https://img.shields.io/github/languages/top/RohitMakaniProfile/luna-ai?style=flat-square&color=6366f1&labelColor=040408" />
+</p>
+
+A JavaScript-powered AI assistant exploring conversational interfaces and lightweight LLM integration.
+
+`#javascript` &nbsp; `#ai-assistant` &nbsp; `#llm`
+
+</td>
+<td width="50%" valign="top">
+
+#### ☕ &nbsp; [javatrial](https://github.com/RohitMakaniProfile/javatrial)
+
+<p>
+  <img src="https://img.shields.io/github/stars/RohitMakaniProfile/javatrial?style=flat-square&color=22d3ee&labelColor=040408" />
+  <img src="https://img.shields.io/github/forks/RohitMakaniProfile/javatrial?style=flat-square&color=a78bfa&labelColor=040408" />
+  <img src="https://img.shields.io/github/languages/top/RohitMakaniProfile/javatrial?style=flat-square&color=6366f1&labelColor=040408" />
+</p>
+
+Java experiments — exploring core OOP, data structures, and the JVM ecosystem hands-on.
+
+`#java` &nbsp; `#oop` &nbsp; `#playground`
+
+</td>
+</tr>
+</table>
+
+<p><a href="https://github.com/RohitMakaniProfile?tab=repositories"><img src="https://img.shields.io/badge/See%20All%2078%20Repositories-040408?style=for-the-badge&logo=github&logoColor=22d3ee" /></a></p>
 
 </div>
 

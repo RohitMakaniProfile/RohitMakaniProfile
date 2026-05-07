@@ -20,9 +20,13 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: RohitMakaniProfile
+          # Optional: pass SNK_TOKEN secret (a PAT with read:user scope) to
+          # include PRIVATE contributions. Without it, only public contributions
+          # appear in the snake.
+          github_token: ${{ secrets.SNK_TOKEN || secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#22d3ee&color_dots=#1f2937,#6366f1,#22d3ee,#a78bfa,#34d399
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
