@@ -182,18 +182,26 @@ class RohitMakani:
 <div align="center">
 
 <!--
-  NOTE: github-readme-stats.vercel.app is currently paused (503 DEPLOYMENT_PAUSED).
-  Switched to the rho-pied mirror — same API, identical theming.
-  If that mirror dies later, swap to: https://github-readme-stats-zeta-orcin.vercel.app
+  NOTE: github-readme-stats.vercel.app and its mirrors keep getting rate-limited.
+  These cards are generated LOCALLY via the github-profile-summary-cards
+  action and committed to the `profile-summary-card-output` branch.
+  Zero external dependency = stats never break.
+  Workflow: .github/workflows/profile-summary-cards.yml
 -->
 
 <a href="https://github.com/RohitMakaniProfile">
-  <img height="180" src="https://github-readme-stats-rho-pied.vercel.app/api?username=RohitMakaniProfile&show_icons=true&theme=tokyonight&hide_border=true&bg_color=040408&title_color=22d3ee&icon_color=a78bfa&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitMakaniProfile&theme=tokyonight&hide_border=true&background=040408&stroke=6366f1&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+  <img width="49%" src="https://raw.githubusercontent.com/RohitMakaniProfile/RohitMakaniProfile/profile-summary-card-output/tokyo_night/3-stats.svg" alt="Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitMakaniProfile&theme=tokyonight&hide_border=true&background=040408&stroke=6366f1&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="Streak" />
 </a>
 
 <a href="https://github.com/RohitMakaniProfile">
-  <img width="60%" src="https://github-readme-stats-rho-pied.vercel.app/api/top-langs/?username=RohitMakaniProfile&layout=compact&theme=tokyonight&hide_border=true&bg_color=040408&title_color=22d3ee&text_color=ffffff&langs_count=10" />
+  <img width="32%" src="https://raw.githubusercontent.com/RohitMakaniProfile/RohitMakaniProfile/profile-summary-card-output/tokyo_night/0-profile-details.svg" alt="Profile Details" />
+  <img width="32%" src="https://raw.githubusercontent.com/RohitMakaniProfile/RohitMakaniProfile/profile-summary-card-output/tokyo_night/1-repos-per-language.svg" alt="Repos per Language" />
+  <img width="32%" src="https://raw.githubusercontent.com/RohitMakaniProfile/RohitMakaniProfile/profile-summary-card-output/tokyo_night/2-most-commit-language.svg" alt="Most Commit Language" />
+</a>
+
+<a href="https://github.com/RohitMakaniProfile">
+  <img width="60%" src="https://raw.githubusercontent.com/RohitMakaniProfile/RohitMakaniProfile/profile-summary-card-output/tokyo_night/4-productive-time.svg" alt="Productive Time" />
 </a>
 
 </div>
